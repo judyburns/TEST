@@ -1,0 +1,9 @@
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.exe.config
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.exe
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.pdb
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Objects.dll
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\bin\Debug\FleetSim.Objects.pdb
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CoreCompileInputs.cache
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.exe
+C:\Users\ClevelandCodes\source\repos\HW13\FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.pdb
