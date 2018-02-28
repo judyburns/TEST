@@ -11,7 +11,7 @@ namespace FleetSim.Objects.Class
     {
         protected Guid Vin;
         protected int Mileage;
-        protected string CarColor;
+        protected string VehicleColor;
         protected DateTime LastServicedDate;
         protected int LastServicedMileage;
 

@@ -15,14 +15,14 @@ namespace FleetSim.Objects.Class
         public Car()
         {
             VinNbr = Guid.NewGuid();
-            CarColor = Color.Red.ToString("G");  // default is Red
+            VehicleColor = Color.Red.ToString("G");  // default is Red
         }
 
         public Car(string modelname)
         {
             VinNbr = Guid.NewGuid();
             Model = modelname;
-            CarColor = Color.Red.ToString("G");  // default is Red
+            VehicleColor = Color.Red.ToString("G");  // default is Red
         }
 
         public Car(string modelname, string color, int year)
@@ -33,11 +33,12 @@ namespace FleetSim.Objects.Class
             Boolean colorExists = Color.IsDefined(typeof(Color), color);
             if (colorExists)
             {
-                CarColor = color;
+                VehicleColor = color;
             }
             else
             {
-                Console.WriteLine("Car color is not defined");
+                Console.WriteLine("Car color is not defined in the Color enum of the Vehicle Class.");
+                throw new InvalidCastException("Color passed in as argument is invalid.");
             }
 
         }
